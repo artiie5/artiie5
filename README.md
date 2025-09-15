@@ -35,4 +35,4 @@
 
 ✉️ **Conecta conmigo**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/arturo-mendieta)  
-[![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](artiiemendieta@gmail.com)  
+[![Correo](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:artiiemendieta@gmail.com)  
